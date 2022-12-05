@@ -1,0 +1,9 @@
+.MainDash{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 0%;
+    padding-left: 12%;
+    padding-top: 6.50%;
+    
+}
